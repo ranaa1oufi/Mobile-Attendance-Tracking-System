@@ -1,0 +1,8 @@
+# Functional Requirements
+
+- GPS verification during employee check-in.
+- Record employee attendance.
+- Log employee break times.
+- Submit absence, sick leave, late arrival, and early leave requests.
+- HR and Manager role-based permissions.
+- Synchronize attendance data with ERPNext.
