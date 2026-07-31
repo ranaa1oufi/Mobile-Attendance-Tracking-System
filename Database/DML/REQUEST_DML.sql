@@ -1,0 +1,6 @@
+INSERT INTO REQUEST (Req_ID, Type, Status, Submitted_at, From_date, To_date, Reason, Emp_ID, M_ID, H_ID) VALUES (601, 'Leave', 'Approved', DATE '2025-11-20', DATE '2025-12-15', DATE '2025-12-19', 'Annual Leave', 301, 102, 201);
+INSERT INTO REQUEST (Req_ID, Type, Status, Submitted_at, From_date, To_date, Reason, Emp_ID, M_ID, H_ID) VALUES (602, 'Remote Work', 'Pending', DATE '2025-11-30', DATE '2025-12-03', DATE '2025-12-03', 'Home repair', 302, 102, NULL);
+INSERT INTO REQUEST (Req_ID, Type, Status, Submitted_at, From_date, To_date, Reason, Emp_ID, M_ID, H_ID) VALUES (603, 'Leave', 'Rejected', DATE '2025-12-01', DATE '2025-12-24', DATE '2025-12-26', 'Personal', 303, 101, 202);
+INSERT INTO REQUEST (Req_ID, Type, Status, Submitted_at, From_date, To_date, Reason, Emp_ID, M_ID, H_ID) VALUES (604, 'Business Trip', 'Approved', DATE '2025-11-25', DATE '2026-01-05', DATE '2026-01-10', 'Client meeting', 304, 103, 203);
+INSERT INTO REQUEST (Req_ID, Type, Status, Submitted_at, From_date, To_date, Reason, Emp_ID, M_ID, H_ID) VALUES (605, 'Resignation', 'Pending', DATE '2025-12-02', DATE '2026-01-01', NULL, 'New opportunity', 305, 104, NULL);
+COMMIT;
