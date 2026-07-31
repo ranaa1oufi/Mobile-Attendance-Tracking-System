@@ -1,5 +1,12 @@
 # Mobile Attendance Tracking System
 
+![SQL](https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![PlantUML](https://img.shields.io/badge/PlantUML-yellow)
+![ERPNext](https://img.shields.io/badge/ERPNext-blue)
+![System Analysis](https://img.shields.io/badge/System%20Analysis-success)
+![Database Design](https://img.shields.io/badge/Database%20Design-informational)
+
 A university team project designed to improve attendance management for field employees through a mobile application integrated with ERPNext. The system enables GPS-based attendance tracking, employee requests, and role-based access for managers and HR.
 
 ---
@@ -24,51 +31,6 @@ The Mobile Attendance Tracking System was designed to solve the challenge of tra
 - ERPNext Integration
 
 ---
-
-## Project Structure
-Mobile-Attendance-Tracking-System
-│
-├── Requirements
-├── Diagrams
-├── Database
-├── UI
-└── Images---
-
-## Technologies & Tools
-
-- SQL
-- Figma
-- PlantUML
-- ERPNext (Integration Concept)
-- UML Diagrams
-
----
-
-## Diagrams Included
-
-- Context Diagram
-- Data Flow Diagram (Level 1 & Level 2)
-- Use Case Diagram
-- Activity Diagram
-- Sequence Diagram
-- Class Diagram
-- State Diagram
-- Entity Relationship Diagram (ERD)
-
----
-
-## Database
-
-The repository includes:
-
-- Database Schema
-- DDL Scripts
-- DML Scripts
-- SQL Join Queries
-- Aggregate Functions
-
----
-
 ## User Interface
 
 
@@ -78,7 +40,7 @@ The repository includes:
 
 ### Registration
 
-![](UI/Registration-Page.png)
+![](UI/Registeration-Page.png)
 
 ### Home
 
@@ -103,6 +65,31 @@ The repository includes:
 ### Status
 
 ![](UI/Status-Page.png)
+---
+
+## System Diagrams📊
+
+- Context Diagram
+- Data Flow Diagram (Level 1 & Level 2)
+- Use Case Diagram
+- Activity Diagram
+- Sequence Diagram
+- Class Diagram
+- State Diagram
+- Entity Relationship Diagram (ERD)
+
+---
+
+## Database🗄️
+
+The repository includes:
+
+- Database Schema
+- DDL Scripts
+- DML Scripts
+- SQL Join Queries
+- Aggregate Functions
+
 ---
 
 ## Team Project
